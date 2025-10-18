@@ -1,0 +1,3 @@
+[submodule "CONF"]
+	path = CONF
+	url = https://github.com/kayl71/CONF.git
